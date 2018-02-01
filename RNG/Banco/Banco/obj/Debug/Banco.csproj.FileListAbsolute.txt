@@ -1,0 +1,5 @@
+C:\Users\alunoct\Desktop\BD banco\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\alunoct\Desktop\BD banco\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\alunoct\Desktop\BD banco\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\alunoct\Desktop\BD banco\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\alunoct\Desktop\BD banco\Banco\Banco\obj\Debug\Banco.pdb
